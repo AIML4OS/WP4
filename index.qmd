@@ -145,7 +145,7 @@ gsbpm: "5.1" # See complete taxonomy: https://www.unescap.org/sites/default/d8fi
 - Identify the needs of National Statistical Institutes (NSIs) with respect to AI/ML.
    
 ## Output of WP4
-- Snapshot 1: A comprehensive overview of the current situation of the use of AI/ML in the ESS. The Snapshot is based on the results of the survey on the use of Machine Learning within the Official Statistics with the focus on the institutional level.  
+- [Snapshot 1](chapters/survey1.qmd): A comprehensive overview of the current situation of the use of AI/ML in the ESS. The Snapshot is based on the results of the survey on the use of Machine Learning within the Official Statistics with the focus on the institutional level.  
 
 - Snapshot 2: Adjusted comprehensive overview after the 4 years, showing the progress in the ESS and an
 overview of the current situation of the use of AI/ML beyond the ESS. The Snapshot is based on the results of the survey on the use of Machine Learning within the Official Statistics with the focus on the project level.
