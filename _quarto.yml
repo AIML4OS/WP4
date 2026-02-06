@@ -3,8 +3,8 @@ project:
   execute-dir: project
   render: # Add HERE new chapters and new notebooks
     - index.qmd
-    - chapters/chapter1.qmd
-    - notebooks/notebook1.qmd
+    - chapters/survey1.qmd
+    - chapters/survey1_questionnaire.qmd
 
 website:
   page-navigation: true
@@ -21,8 +21,10 @@ website:
     contents: # Add HERE new chapters (but not the notebooks)
       - href: index.qmd
         text: Introduction
-      - href: chapters/chapter1.qmd
-        text: A complete example
+      - href: chapters/survey1.qmd
+        text: Snapshot 1
+      - href: chapters/survey1_questionnaire.qmd
+        text: Survey 1 (Questionnaire)
 
 format:
   html:

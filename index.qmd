@@ -155,5 +155,3 @@ As part of this initiative, [AIML4OS] Work Package 4 (WP-4) conducts two surveys
 - Survey 1 was designed to engage National Statistical Institutes (NSIs) and took place in 2025. It aimed to provide a high-level overview of how ML was being implemented and utilized within NSIs. 
 
 - Survey 2 seeks to build a comprehensive overview of current ML projects with multiple responses per institution being expected. The primary outcome of this survey will be a publicly accessible, comprehensive knowledge base of ML projects. This knowledge base will support the exchange of experiences, challenges, and solutions among countries. 
-
-Test

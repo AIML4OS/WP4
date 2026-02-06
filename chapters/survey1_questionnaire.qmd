@@ -1,0 +1,15 @@
+---
+title: "Survey 1(The Questionnaire)" 
+format: html # This qmd file will be compiled as HTML only (no notebook)
+resources:
+  - ../pdfs/Survey1.pdf
+---
+
+
+
+<iframe 
+    src="../pdfs/Survey1.pdf#navpanes=0" 
+    width="120%" 
+    height="600px" 
+    style="border:none;">
+</iframe>
