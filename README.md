@@ -1,8 +1,6 @@
-# <img height="18" width="18" src="https://cdn.simpleicons.org/python/00ccff99" /> tutorial template for AIML4OS projects
+# Work Package 4: AI/ML state-of-play and ecosystem monitoring
 
-This repository provides a clean and modular template to build tutorials for projects in the **AIML4OS** project.
+This repo contains the source code for [the website](https://aiml4os.github.io/WP4/) of Work Package 4 (WP4) of the AIML4OS project, which focuses on AI/ML state-of-play and ecosystem monitoring within the European Statistical System (ESS) and beyond. WP4 gathers evidence on the current use of Artificial Intelligence (AI) and Machine Learning (ML) and supports knowledge sharing across institutions.
 
-## Usage
-
-➡️ See [this tutorial](https://aiml4os.github.io/training-material-starting-pack/) on how to customize and deploy this template.
+➡️ Visit [the website](https://aiml4os.github.io/WP4/) of Work Package 4 for more information about WP4 activities and its results. 
 
