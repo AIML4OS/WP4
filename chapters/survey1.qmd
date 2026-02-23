@@ -52,7 +52,7 @@ The second question, “Please provide the name of your organization,” was inc
 
 The results reveal that the majority of respondents are either Managers/Policy Makers or Statisticians/Data Scientists, representing 52% and 41% of the total responses, respectively. A small portion of responses (7%) came from Software Engineers or IT Specialists. Notably, no responses were recorded from Analysts/Subject Matter Specialists, which may reflect the focus of ML initiatives within the participating institutions or the distribution of expertise involved in such projects.
 
-![](../images/p3_v1.png)
+![](../images/p3_v1_1.PNG)
 
 ### Question P4
 
@@ -60,7 +60,7 @@ The fourth question, “Are you using Machine Learning in your institution?” w
 
 Out of 29 responses, 26 institutions (around 90%) indicated that they are currently using Machine Learning in some capacity. Only 3 institutions reported not using ML. This strong majority suggests that ML adoption is already widespread across the NSIs surveyed, setting the stage for a more detailed exploration of how it is being integrated, governed, and supported within each context.
 
-![](../images/p4_v1.png)
+![](../images/p4_v1_1.PNG)
 
 ### Question P5
 
@@ -107,7 +107,7 @@ was only asked to those institutions that currently use ML.
 
 **Overall Conclusion:** Generally, the definition provided resonates with most institutions and appears to reflect the practical understanding of ML in statistical contexts. However, the relatively high number of neutral responses shows that a significant number of institutions may still lack internal alignment on what ML precisely is, possibly due to its novelty or evolving nature in official statistics. This could affect how ML is integrated across processes and highlights an opportunity for shared guidance or discussion within the ESS.
 
-![](../images/p6_v1.png)
+![](../images/p6_v1_1.PNG)
 
 To better understand the overall sentiment toward the proposed definition of Machine Learning, we attributed ordinal values to each response (from 6 for “Agree completely” to 1 for “Strongly disagree”). The resulting average score was 4.5, and the median was 5, suggesting that respondents mostly agree with the definition, albeit with some reservations. This reinforces the idea that while a majority are aligned with the description, there remains space for interpretation and further clarification of ML concepts within NSIs.
 
