@@ -76,7 +76,7 @@ license: "CC-BY 4.0"  # Optional
 description: |
     This page describes the scope and activities of Work Package 4 (WP4) of the AIML4OS project, which focuses on AI/ML state-of-play and ecosystem monitoring within the European Statistical System (ESS) and beyond. WP4 gathers evidence on the current use of Artificial Intelligence (AI) and Machine Learning (ML) and supports knowledge sharing across institutions.
 
-    A core activity of WP4 is a public consultation of ESS members, implemented through two surveys. The first survey, conducted in 2025, provided a high-level overview of ML adoption within National Statistical Institutes (NSIs). The second survey collects detailed information on ongoing ML projects, with multiple responses per institution, and will result in a publicly accessible knowledge base to support the exchange of experiences, challenges, and solutions.
+    A core activity of WP4 is a public consultation of ESS members, implemented through two surveys. The first survey, conducted in 2025, provided a high-level overview of ML adoption within National Statistical Institutes (NSIs). The second survey collects detailed information on ongoing ML projects, with multiple responses per institution. Its results will be published at an aggregated level.
 
 
 # If resources is multilingual, adopt that structure
