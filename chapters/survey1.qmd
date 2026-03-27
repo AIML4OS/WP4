@@ -24,7 +24,7 @@ C.  **Human Resources** Focuses on ML skill development strategies and staff com
 
 D.  **Current Issues and Challenges** Evaluates organizational and technical limitations affecting ML initiatives.
 
-![](../images/Areas.png)
+![](../images/Areas_2.png)
 
 ## Preliminary
 
@@ -121,7 +121,7 @@ How has Machine Learning evolved and been integrated into your organization over
 
 ![](../images/A1_v2.png)
 
-**ML adoption is often driven by practical needs.** “In response to specific business challenges" was the most frequently selected strategy across all roles, especially by Statisticians/Data Scientists (8) and Managers/Policy Makers (9).
+**ML adoption is often driven by practical needs.** Respondents were presented with a series of statements to choose from which describe potential approaches for the adoption of machine learning. “In response to specific business challenges" was the most frequently selected strategy across all roles, especially by Statisticians/Data Scientists (8) and Managers/Policy Makers (9).
 
 Bottom-Up innovation plays also a Major role. "Gradually, through bottom-up initiatives" was highly selected by Managers/Policy Makers (10) and Statisticians/Data Scientists (7).
 
